@@ -83,4 +83,4 @@ The app allows creators to interact with others and helps musicians to grow thei
 - **Payment Integration**: Integrate a payment gateway for purchasing beats.
 
 ## Contributing
-Feel free to fork the repository and submit pull requests if you'd like to contribute! 🎸
+Feel free to fork the repository and submit pull requests if you'd like to contribute!
